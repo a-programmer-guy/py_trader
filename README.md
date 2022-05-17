@@ -1,2 +1,2 @@
 # py_trader
-Algorithmic stock trading bot
+Algorithmic stock trading bot using python
